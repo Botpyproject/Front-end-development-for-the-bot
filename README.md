@@ -1,7 +1,11 @@
 # Front-end-development-for-the-bot
-designing Front end development for the bot
+
+####designing Front end development for the bot
+
 Course - Python for Engineers
+
 Level 7 - Preparing Front end for our bot
+
 Team Members
 NEKKANTI LAKSHMI PRASANNA - 19A1A05C5
 NALLAMALLI SINDHU - 19PA1A05C1
