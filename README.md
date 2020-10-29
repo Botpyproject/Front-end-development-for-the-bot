@@ -23,6 +23,10 @@ Task of the Bot :
 The Bot gives warm greeting to the user and asks the name of the user,The Bot welcomes the user and the bot provides a Choose button and it displays the names of Famous Personalities. The Bot gives the direct acsess to the wikipedia of whom the user selects.So that people can see more information quickly in a simple way.
 
 
+Flowchart :
+
+
+
 Youtube Link Of Demo :
 
 https://youtu.be/8vocg6tuMqs
