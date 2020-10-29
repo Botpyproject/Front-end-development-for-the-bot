@@ -20,5 +20,25 @@ To make a Wikipedia Bot that could help people in getting more  information abou
 
 Task of the Bot :
 
-The Bot gives warm greeting to the user and asks the name of the user,The Bot welcomes the user and the bot provides a Choose button and it displays the names of Famous Personalities. The Bot gives the direct acsess to the wikipedia of whom the user selects.
+The Bot gives warm greeting to the user and asks the name of the user,The Bot welcomes the user and the bot provides a Choose button and it displays the names of Famous Personalities. The Bot gives the direct acsess to the wikipedia of whom the user selects.So that people can see more information quickly in a simple way.
+
+
+Youtube Link Of Demo :
+
+
+REPL Link Of The Project :
+
+
+Links of resources we reffered online :
+
+https://www.w3schools.com/css/css3_animations.asp
+
+https://www.w3schools.com/cssref/css_colors.asp
+
+https://www.w3schools.com/html/html_images.asp
+
+https://www.w3schools.com/html/html_scripts.asp
+
+https://www.w3schools.com/html/html_links.asp
+
 
