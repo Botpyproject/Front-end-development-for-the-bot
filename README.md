@@ -1,6 +1,6 @@
 # Front-end-development-for-the-bot
 
-designing Front end development for the bot
+Designing Front end development for the bot
 
 Course - Python for Engineers
 
@@ -12,7 +12,7 @@ NEKKANTI LAKSHMI PRASANNA - 19A1A05C5
 
 NALLAMALLI SINDHU - 19PA1A05C1
 
-NARLA PUJITHA - 
+NARLA PUJITHA - 19PA1A4B8
 
 Objective :
 
@@ -27,6 +27,8 @@ Youtube Link Of Demo :
 
 
 REPL Link Of The Project :
+
+https://wekipedia.prasanna25.repl.co
 
 
 Links of resources we reffered online :
