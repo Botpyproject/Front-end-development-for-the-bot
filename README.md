@@ -20,7 +20,7 @@ To make a Wikipedia Bot that could help people in getting more  information abou
 
 Task of the Bot :
 
-The Bot gives warm greeting to the user and asks the name of the user,The Bot welcomes the user and the bot provides a Choose button and it displays the names of Famous Personalities. The Bot gives the direct acsess to the wikipedia of whom the user selects.So that people can see more information quickly in a simple way.
+The Bot gives warm greeting to the user and asks the name of the user,The Bot welcomes the user and the bot provides a Choose button and it displays the names of Famous Personalities. The Bot gives the direct acsess to the wikipedia of whom the user selects.So that people can see more information quickly in a simple way
 
 
 Flowchart :
