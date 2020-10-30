@@ -1,0 +1,46 @@
+body {
+  background-color : blanchedAlmond;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  border-radius: 50%;
+  
+body
+{
+  
+    background-size: cover;
+    font-family: 'Stylish';
+    color: Gold;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+
+.header
+{
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://www.ywamlausanne.com/wp-content/uploads/bfi_thumb/2017Q2-Asia-Blog-Picture-niszu9zcmh2a1vzn35boc33tgsv57eq58dagmsqe2s.jpeg");
+    animation : imganimation 5s infinite;
+    border-radius: 25%;
+    margin: auto;
+    margin-top: 3%;
+    width: 65%;
+    padding: 1.5em;
+    box-shadow: -1px 1px 21px 12px rgba(210, 221, 209, 0.8);
+}
+
+@keyframes imganimation
+{
+    20% {background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://lh3.googleusercontent.com/proxy/lqi8roE0urt_8rACGLsEaIrJD5aYW0J16eD-0ioAALx4qzJbkyyc3U4yBSg2KB1viGWsFTBmHwg55lPQYDaRX6k0pvVvgf4gJ79csBejnTgK2HfawzAgYOry5iej");}
+    40% {background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://www.theindianwire.com/wp-content/uploads/2019/11/Indira-Gandhi.jpg");}
+    60% {background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X.jpg");}
+    80% {background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/11/w600X390/Mukesh_Ambani_PTI.jpg");}
+    100% {background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://upload.wikimedia.org/wikipedia/commons/e/e4/Nick_Vujicic_speaking_in_a_church_in_Ehringshausen%2C_Germany_-_20110401-02.jpg");}
+}
+
+
